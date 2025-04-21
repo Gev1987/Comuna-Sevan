@@ -40,8 +40,8 @@ var APP_DATA = {
           "target": "0-panorama2"
         },
         {
-          "yaw": -0.9646691476711133,
-          "pitch": 0.11373695364313718,
+          "yaw": -1.733783315645658,
+          "pitch": 0.05566579309526709,
           "rotation": 0,
           "target": "1-panorama1"
         }
@@ -80,7 +80,14 @@ var APP_DATA = {
         "pitch": 0.02203722532927621,
         "fov": 1.4390866472079973
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -2.081661037036902,
+          "pitch": 0.2564993906297417,
+          "rotation": 0,
+          "target": "0-panorama2"
+        }
+      ],
       "infoHotspots": []
     }
   ],
